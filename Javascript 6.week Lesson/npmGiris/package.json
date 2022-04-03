@@ -1,0 +1,23 @@
+{
+  "name": "npmGiris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camelcase": "^6.3.0",
+    "chalk": "^5.0.1",
+    "generate-password": "^1.7.0",
+    "ph-terminal-icons": "0.0.2",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
